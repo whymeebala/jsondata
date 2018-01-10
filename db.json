@@ -1,4 +1,4 @@
-
+{
 	"logourl": "assets/img/logo-whymee-white.png",
 	"homedata": [{
 		"title": "Angular Application Developer",
@@ -51,3 +51,4 @@
 		}
 	}]
 
+}
